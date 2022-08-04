@@ -49,6 +49,7 @@ while True:
 else:
     cv2.destroyAllWindows()
 ```
+Пример вывода видео сервера и двух клиентов ![Image alt](https://github.com/pichuginakris/planetarium_test/blob/master/example.png)
 ## Примечание
 Для отслеживания ошибок, их запись ведется в файл логов errors_log.log. 
 Создание файла логов
